@@ -4,7 +4,7 @@
 			"name" : "Corset Ortega Bege",
 			"price" : "35.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Size" : "Pequeno,Medio,Grande" }
 			],
 			"image" : "assets/images/ligerie1.PNG",
 			"description" : "Corset Ortega Bege"
@@ -13,7 +13,7 @@
 			"name" : "Corset Ortega Vermelho",
 			"price" : "15.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" },
+				{ "Size" : "Pequeno,Medio,Grande" },
 				{ "Color" : "Red" }
 			],
 			"image" : "assets/images/ligeri2.PNG",
@@ -23,7 +23,7 @@
 			"name" : "Body Florido",
 			"price" : "15.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Size" : "Pequeno,Medio,Grande" }
 			],
 			"image" : "assets/images/bodyflor.PNG",
 			"description" : "Body Florido"
